@@ -1,0 +1,3 @@
+[submodule "lib/micro_ros_arduino"]
+	path = lib/micro_ros_arduino
+	url = https://github.com/conroy-cheers/micro_ros_arduino.git
